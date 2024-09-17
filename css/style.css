@@ -176,6 +176,7 @@ button:focus {
 }
 
 .major {
+  width: 19rem;
   background-color: var(--color-primary-variant);
   padding: 2rem 1rem;
   color: var(--color-text);
