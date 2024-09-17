@@ -216,6 +216,8 @@ button:focus {
   width: 180px;
   height: 80px;
   border-radius: 20px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 38);
+  margin-bottom: 0.4rem;
 }
 
 .job__name {
